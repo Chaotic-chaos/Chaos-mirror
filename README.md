@@ -13,7 +13,7 @@
 要求：严格按照模板规范提交，参考： [成功案例](https://github.com/togettoyou/hub-mirror/issues/1)
 ，[失败案例](https://github.com/togettoyou/hub-mirror/issues/2)
 
-限制：每次提交最多 11 个镜像地址（为啥是11个？因为我的第一次需求刚好要转换11个镜像🤣）
+限制：每次提交最多 11 个镜像地址
 
 本人 Docker 账号有每日镜像拉取限额，请勿滥用
 
